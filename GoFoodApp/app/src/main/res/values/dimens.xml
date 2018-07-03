@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="small_elevation">4dp</dimen>
+    <dimen name="medium_elevation">8dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="xsmall_text">12sp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="medium_text">24sp</dimen>
+    <dimen name="large_text">48sp</dimen>
+
+    <!-- Icon Sizes -->
+    <dimen name="xsmall_icon">32dp</dimen>
+    <dimen name="small_icon">64dp</dimen>
+    <dimen name="medium_icon">128dp</dimen>
+    <dimen name="large_icon">256dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <!-- Buttons Max Sizes -->
+    <dimen name="max_button">250dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="small_padding">12dp</dimen>
+    <dimen name="medium_padding">24dp</dimen>
+    <dimen name="large_padding">48dp</dimen>
+
+    <!-- Text Edit Max Width -->
+    <dimen name="max_textedit">200dp</dimen>
+
+    <!-- Column Widths -->
+    <dimen name="column_width">90dp</dimen>
+
+    <!-- Column Spacing -->
+    <dimen name="column_vertical_spacing">10dp</dimen>
+    <dimen name="column_horizontal_spacing">10dp</dimen>
+
+    <!-- Button Padding -->
+    <dimen name="button_vertical_spacing">25dp</dimen>
+    <dimen name="button_horizontal_spacing">12dp</dimen>
+
+    <!-- Register Popup window -->
+    <dimen name="register_width">300dp</dimen>
+    <dimen name="register_height">300dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

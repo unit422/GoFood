@@ -1,0 +1,378 @@
+{
+  "Chicos" : {
+    "storehands" : {
+      "7yL7kNuPh8VMQsVlwxHYWCEJIk82" : "TRUE",
+      "TRoRwW85NxXikYCI779c2NeM0CJ2" : "TRUE",
+      "hCzE4eTgR6dWA2cucg57eurRRca2" : "TRUE"
+    }
+  },
+  "condition" : {
+    "Item5" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+      "Name" : "Oreo",
+      "Quant" : 55,
+      "itemID" : "5",
+      "prodCost" : "₱50"
+    },
+    "Item6" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+      "Name" : "Chips Ahoy",
+      "Quant" : 32,
+      "itemID" : "6",
+      "prodCost" : "₱33"
+    },
+    "item1" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+      "Name" : "Fruit Creme",
+      "Quant" : 20,
+      "itemID" : "1",
+      "prodCost" : "₱15"
+    },
+    "item2" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+      "Name" : "Viva Puffs",
+      "Quant" : 20,
+      "itemID" : "2",
+      "prodCost" : "₱20"
+    },
+    "item3" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+      "Name" : "Fudge Creme",
+      "Quant" : 20,
+      "itemID" : "4",
+      "prodCost" : "₱50"
+    }
+  },
+  "inventory" : {
+    "Chicos" : {
+      "Item5" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+        "Name" : "Oreo",
+        "Quant" : 55,
+        "itemID" : "5",
+        "prodCost" : "₱50"
+      },
+      "Item6" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+        "Name" : "Chips Ahoy",
+        "Quant" : 32,
+        "itemID" : "6",
+        "prodCost" : "₱33"
+      },
+      "item1" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+        "Name" : "Fruit Creme",
+        "Quant" : 20,
+        "itemID" : "1",
+        "prodCost" : "₱15"
+      },
+      "item2" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+        "Name" : "Viva Puffs",
+        "Quant" : 20,
+        "itemID" : "2",
+        "prodCost" : "₱20"
+      },
+      "item3" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+        "Name" : "Fudge Creme",
+        "Quant" : 20,
+        "itemID" : "4",
+        "prodCost" : "₱50"
+      }
+    },
+    "Fiesta Delight" : {
+      "Item5" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+        "Name" : "Oreo",
+        "Quant" : 55,
+        "itemID" : "5",
+        "prodCost" : "₱50"
+      },
+      "Item6" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+        "Name" : "Chips Ahoy",
+        "Quant" : 32,
+        "itemID" : "6",
+        "prodCost" : "₱33"
+      },
+      "item1" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+        "Name" : "Fruit Creme",
+        "Quant" : 20,
+        "itemID" : "1",
+        "prodCost" : "₱15"
+      },
+      "item2" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+        "Name" : "Viva Puffs",
+        "Quant" : 20,
+        "itemID" : "2",
+        "prodCost" : "₱20"
+      },
+      "item3" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+        "Name" : "Fudge Creme",
+        "Quant" : 20,
+        "itemID" : "4",
+        "prodCost" : "₱50"
+      }
+    },
+    "Leylam" : {
+      "Item5" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+        "Name" : "Oreo",
+        "Quant" : 55,
+        "itemID" : "5",
+        "prodCost" : "₱50"
+      },
+      "Item6" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+        "Name" : "Chips Ahoy",
+        "Quant" : 32,
+        "itemID" : "6",
+        "prodCost" : "₱33"
+      },
+      "item1" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+        "Name" : "Fruit Creme",
+        "Quant" : 20,
+        "itemID" : "1",
+        "prodCost" : "₱15"
+      },
+      "item2" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+        "Name" : "Viva Puffs",
+        "Quant" : 20,
+        "itemID" : "2",
+        "prodCost" : "₱20"
+      },
+      "item3" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+        "Name" : "Fudge Creme",
+        "Quant" : 20,
+        "itemID" : "4",
+        "prodCost" : "₱50"
+      }
+    },
+    "Pabugnawan" : {
+      "Item5" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+        "Name" : "Oreo",
+        "Quant" : 55,
+        "itemID" : "5",
+        "prodCost" : "₱50"
+      },
+      "Item6" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+        "Name" : "Chips Ahoy",
+        "Quant" : 32,
+        "itemID" : "6",
+        "prodCost" : "₱33"
+      },
+      "item1" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+        "Name" : "Fruit Creme",
+        "Quant" : 20,
+        "itemID" : "1",
+        "prodCost" : "₱15"
+      },
+      "item2" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+        "Name" : "Viva Puffs",
+        "Quant" : 20,
+        "itemID" : "2",
+        "prodCost" : "₱20"
+      },
+      "item3" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+        "Name" : "Fudge Creme",
+        "Quant" : 20,
+        "itemID" : "4",
+        "prodCost" : "₱50"
+      }
+    },
+    "Tapa Bai" : {
+      "Item5" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/1.jpg?alt=media&token=ef6be2ec-d798-4d79-bcee-4ba897754ee5",
+        "Name" : "Oreo",
+        "Quant" : 55,
+        "itemID" : "5",
+        "prodCost" : "₱50"
+      },
+      "Item6" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/2.jpg?alt=media&token=54923a36-ceec-4643-b499-0ce7f8d1c914",
+        "Name" : "Chips Ahoy",
+        "Quant" : 32,
+        "itemID" : "6",
+        "prodCost" : "₱33"
+      },
+      "item1" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/3.jpg?alt=media&token=2d5538a3-2d14-4b45-b570-1906781b98be",
+        "Name" : "Fruit Creme",
+        "Quant" : 20,
+        "itemID" : "1",
+        "prodCost" : "₱15"
+      },
+      "item2" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/4.jpg?alt=media&token=7acdf1d2-f66c-4756-9bb8-2a8901bb0001",
+        "Name" : "Viva Puffs",
+        "Quant" : 20,
+        "itemID" : "2",
+        "prodCost" : "₱20"
+      },
+      "item3" : {
+        "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/5.jpg?alt=media&token=a87ea3d9-c265-4999-b46c-24a80d31cbcf",
+        "Name" : "Fudge Creme",
+        "Quant" : 20,
+        "itemID" : "4",
+        "prodCost" : "₱50"
+      }
+    },
+    "currentItems" : 25
+  },
+  "store1" : {
+    "storehands" : {
+      "5rU6L7kkOGeGRLInypacz6FdZzh1" : "TRUE",
+      "XlDP9hEETdamu3d9MwRLyusECzY2" : "FALSE",
+      "obPTKa47EmTN8seNGgQmV8Ju85F2" : "TRUE"
+    }
+  },
+  "stores" : {
+    "store1" : {
+      "Discount" : 15,
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/chicosbanner.jpg?alt=media&token=6f12aec5-782d-4fc8-b901-82cb52c40528",
+      "Name" : "Chicos"
+    },
+    "store2" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/fiestadelight.jpg?alt=media&token=4c603c28-1273-4471-beeb-327884a3d024",
+      "Name" : "Fiesta Delight"
+    },
+    "store3" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/pabugnawanbanner.jpg?alt=media&token=391d38f6-b725-4d43-a3cf-5382ac0bf3c0",
+      "Name" : "Pabugnawan"
+    },
+    "store4" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/leylam.jpg?alt=media&token=03bfe0d9-23e3-4700-8d87-cf2cd979e2c3",
+      "Name" : "Leylam"
+    },
+    "store5" : {
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/gofood-64f3b.appspot.com/o/tapabai.jpg?alt=media&token=37ccd5a1-3245-4663-b4ba-225d0ec85700",
+      "Name" : "Tapa Bai"
+    }
+  },
+  "users" : {
+    "0euyQafyr4eH3eF861E3uJOaL3O2" : {
+      "ID" : "122",
+      "userType" : "Storehand"
+    },
+    "4wzeGvIDeIZgGIwjbDe8ljDnf0r1" : {
+      "ID" : "1098765",
+      "Name" : "Lee Anton",
+      "userType" : "User"
+    },
+    "5rU6L7kkOGeGRLInypacz6FdZzh1" : {
+      "ID" : "123",
+      "Name" : "123",
+      "Store" : "store1",
+      "userType" : "Storehand"
+    },
+    "7yL7kNuPh8VMQsVlwxHYWCEJIk82" : {
+      "ID" : "13102104",
+      "Name" : "lee",
+      "Store" : "Chicos",
+      "userType" : "Storehand"
+    },
+    "C9smlZzjIOQkiRDfW2taz9bBXDe2" : {
+      "ID" : "12345",
+      "userType" : "User"
+    },
+    "HOHnlq3cImUSzPDJWOoD4XblgMi2" : {
+      "ID" : "13105065",
+      "Name" : "jaise",
+      "userType" : "User"
+    },
+    "Jm4jCrXUeERVkbsHISBdZfOmydD2" : {
+      "ID" : "0977",
+      "Name" : "tenny",
+      "userType" : "User"
+    },
+    "OZBcHBlIlTYfaZtyBuCjNxnOH9M2" : {
+      "ID" : "213",
+      "Name" : "556",
+      "userType" : "Storehand"
+    },
+    "TRoRwW85NxXikYCI779c2NeM0CJ2" : {
+      "ID" : "55421",
+      "Name" : "Lee Rubi",
+      "Store" : "Chicos",
+      "userType" : "Storehand"
+    },
+    "XlDP9hEETdamu3d9MwRLyusECzY2" : {
+      "ID" : "3221",
+      "Name" : "3221",
+      "Store" : "store1",
+      "userType" : "Storehand"
+    },
+    "cMKb8wPaXtSh14eBUlGNu4UPycM2" : {
+      "ID" : "555",
+      "Name" : "555",
+      "userType" : "Storehand"
+    },
+    "cZnt1qMq00b6Qf5kiiVkjMIpMRB2" : {
+      "ID" : "1098",
+      "Name" : "1098",
+      "userType" : "Storehand"
+    },
+    "dhyvSq5zsxRajteMLBoiwEZzMxg1" : {
+      "ID" : "1222222",
+      "userType" : "Storehand"
+    },
+    "e6MAiPxa9GgthTo0LddaH2RSby83" : {
+      "ID" : "444",
+      "Name" : "444",
+      "userType" : "Storehand"
+    },
+    "f9HFNrgAk9WRfeMfENFCuc0VM7E3" : {
+      "ID" : "888",
+      "Name" : "888",
+      "userType" : "Storehand"
+    },
+    "hCzE4eTgR6dWA2cucg57eurRRca2" : {
+      "ID" : "777",
+      "Name" : "777",
+      "Store" : "Chicos",
+      "userType" : "Storehand"
+    },
+    "j24IxOcSQyMblgsM2v8SffmEZi92" : {
+      "ID" : "123",
+      "Name" : "123",
+      "userType" : "User"
+    },
+    "kS288SV0s8fBmp8jdGSaxlGW7Jb2" : {
+      "ID" : "123",
+      "userType" : "User"
+    },
+    "obPTKa47EmTN8seNGgQmV8Ju85F2" : {
+      "ID" : "54321",
+      "Name" : "54321",
+      "Store" : "store1",
+      "userType" : "Storehand"
+    },
+    "tdJCC7gk6BYTrfnsUQrqqNrAQx23" : {
+      "ID" : "654",
+      "Name" : "654",
+      "userType" : "Storehand"
+    },
+    "yUti4i7soAXQD9En4h7DKHY0ij03" : {
+      "ID" : "7373",
+      "Name" : "hdhdh",
+      "userType" : "User"
+    },
+    "ykUPz6u3coWrhQKKXZ1hPXbfqqi1" : {
+      "ID" : "422",
+      "Name" : "Lee Anton",
+      "userType" : "User"
+    }
+  }
+}
